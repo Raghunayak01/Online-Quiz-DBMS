@@ -40,7 +40,16 @@ Hardware Requirements:-
     ●	Web Server:                   Apache SERVER.
 
 
-## DATABASE TABLES:
+## DATABASE TABLES
+
+![11](https://github.com/user-attachments/assets/5c6db261-bba7-45bc-875f-738d55e6c81e)
+![12](https://github.com/user-attachments/assets/3a10f7ff-089a-4d4b-a9ba-b0f4eb3c2b9e)
+![13](https://github.com/user-attachments/assets/cdff080e-386d-4cdc-8df1-98d87a9df91c)
+![14](https://github.com/user-attachments/assets/3ba4628f-0924-40f9-816e-eaa37e2f9be3)
+
+
+
+
 ## OUTPUT/SCREENSHOT
 
 ![1](https://github.com/user-attachments/assets/59a874a0-f973-4b89-b84a-75ea1e24ecbb)
