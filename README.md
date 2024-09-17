@@ -38,3 +38,7 @@ Hardware Requirements:-
     ●	Back-End:                    MySQL
 
     ●	Web Server:                   Apache SERVER.
+
+
+## DATABASE TABLES:
+
