@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>arthmatic operation</title>
+<script type="text/javascript">
+var n1,n2,n;
+	function addition()
+{
+	n1=document.myform.n1.value;
+	n2=document.myform.n2.value;
+	n1=parseFloat(n1);
+	n2=parseFloat(n2);
+	n=n1+n2;
+	document.myform.result.value=n;
+}
+	function substraction() 
+	{
+	n1=document.myform.n1.value;
+	n2=document.myform.n2.value;
+	n1=parseFloat(n1);
+	n2=parseFloat(n2);
+	n=n1-n2;
+	document.myform.result.value=n;
+}
+	</script>
+	</head>
+	<body>
+		<form name="myform">
+		<h1 align="center">arthmatic operation</h1>
+		<hr color="red">
+		<center><u>Enter a number in each text box</u><br><br>
+	number1:<input type="text" name="n1" value=""><br><br>
+	number2:<input type="text" name="n2" value=""><br><br>
+	<input type="button" value="add" onClick="addition()">
+	<input type="button" value="sub" onClick="substraction()">
+	<font color="red"><br><br>
+	result:<input type="text" name="result" value="">
+</font>
+</center>
+</form>
+</body>
+</html>
+
+
+
+
