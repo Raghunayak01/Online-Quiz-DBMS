@@ -41,4 +41,13 @@ Hardware Requirements:-
 
 
 ## DATABASE TABLES:
+## OUTPUT/SCREENSHOT
 
+![1](https://github.com/user-attachments/assets/59a874a0-f973-4b89-b84a-75ea1e24ecbb)
+![2](https://github.com/user-attachments/assets/76d2e154-7008-403b-864f-130ada41a299)
+![3](https://github.com/user-attachments/assets/fade607e-9569-4bc5-aa65-782bd5b7854f)
+![4](https://github.com/user-attachments/assets/9d701155-eda9-4e28-8ed7-db75ae3af7da)
+![5](https://github.com/user-attachments/assets/a1d3b744-611b-4e41-9f3e-d6e519ffd83e)
+![6](https://github.com/user-attachments/assets/a55e91f5-004a-449f-a205-35631427b315)
+![7](https://github.com/user-attachments/assets/9db5491e-a03c-4407-9fc2-65eed22d798d)
+![8](https://github.com/user-attachments/assets/4e05331a-82e6-4e43-b838-899639c8e083)
